@@ -33,11 +33,12 @@ nav {
 }
 
 @keyframes middle {
-  from {}
-  to {}
+  
+  from {opacity: 1}
+  to {opacity: 0}
 }
 
 @keyframes bottom {
-  from {}
-  to {}
+  from {rotate:; }
+  to {rotate:; }
 }
